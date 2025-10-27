@@ -1,6 +1,5 @@
 using demowithsieve;
 using Microsoft.EntityFrameworkCore;
-using Sieve.Services;
 using Testcontainers.PostgreSql;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,7 +14,6 @@ builder.Services.AddDbContext<MyDbContext>((provider, optionsBuilder) =>
 {
     optionsBuilder.UseNpgsql(postgresContainer.GetConnectionString());
 });
-builder.Services.AddScoped<ISieveProcessor, SieveProcessor>();
 builder.Services.AddScoped<IPostService, PostService>();
 
 var app = builder.Build();

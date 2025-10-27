@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("demowithsieve")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e00391f403f1203ce5d4ba0584a0e688069c25e")]
 [assembly: System.Reflection.AssemblyProductAttribute("demowithsieve")]
 [assembly: System.Reflection.AssemblyTitleAttribute("demowithsieve")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

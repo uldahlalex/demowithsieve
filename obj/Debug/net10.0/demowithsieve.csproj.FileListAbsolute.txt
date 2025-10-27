@@ -27,7 +27,6 @@
 /home/alex/src/demowithsieve/bin/Debug/net10.0/NSwag.Generation.dll
 /home/alex/src/demowithsieve/bin/Debug/net10.0/NSwag.Generation.AspNetCore.dll
 /home/alex/src/demowithsieve/bin/Debug/net10.0/ICSharpCode.SharpZipLib.dll
-/home/alex/src/demowithsieve/bin/Debug/net10.0/Sieve.dll
 /home/alex/src/demowithsieve/bin/Debug/net10.0/Renci.SshNet.dll
 /home/alex/src/demowithsieve/bin/Debug/net10.0/Testcontainers.dll
 /home/alex/src/demowithsieve/bin/Debug/net10.0/Testcontainers.PostgreSql.dll
@@ -54,3 +53,4 @@
 /home/alex/src/demowithsieve/obj/Debug/net10.0/demowithsieve.pdb
 /home/alex/src/demowithsieve/obj/Debug/net10.0/demowithsieve.genruntimeconfig.cache
 /home/alex/src/demowithsieve/obj/Debug/net10.0/ref/demowithsieve.dll
+/home/alex/src/demowithsieve/obj/Debug/net10.0/demowithsieve.sourcelink.json

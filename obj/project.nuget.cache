@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2FjtgDxBWmQ=",
+  "dgSpecHash": "IUM7IGcoTpY=",
   "success": true,
   "projectFilePath": "/home/alex/src/demowithsieve/demowithsieve.csproj",
   "expectedPackageFiles": [
@@ -26,9 +26,7 @@
     "/home/alex/.nuget/packages/nswag.generation/14.6.1/nswag.generation.14.6.1.nupkg.sha512",
     "/home/alex/.nuget/packages/nswag.generation.aspnetcore/14.6.1/nswag.generation.aspnetcore.14.6.1.nupkg.sha512",
     "/home/alex/.nuget/packages/sharpziplib/1.4.2/sharpziplib.1.4.2.nupkg.sha512",
-    "/home/alex/.nuget/packages/sieve/2.5.5/sieve.2.5.5.nupkg.sha512",
     "/home/alex/.nuget/packages/ssh.net/2024.2.0/ssh.net.2024.2.0.nupkg.sha512",
-    "/home/alex/.nuget/packages/system.componentmodel.annotations/4.4.1/system.componentmodel.annotations.4.4.1.nupkg.sha512",
     "/home/alex/.nuget/packages/testcontainers/4.8.1/testcontainers.4.8.1.nupkg.sha512",
     "/home/alex/.nuget/packages/testcontainers.postgresql/4.8.1/testcontainers.postgresql.4.8.1.nupkg.sha512",
     "/home/alex/.nuget/packages/yamldotnet/16.3.0/yamldotnet.16.3.0.nupkg.sha512"

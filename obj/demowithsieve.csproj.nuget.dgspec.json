@@ -52,10 +52,6 @@
               "target": "Package",
               "version": "[9.0.4, )"
             },
-            "Sieve": {
-              "target": "Package",
-              "version": "[2.5.5, )"
-            },
             "Testcontainers.PostgreSql": {
               "target": "Package",
               "version": "[4.8.1, )"

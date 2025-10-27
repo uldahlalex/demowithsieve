@@ -10,7 +10,6 @@
         "dependencies": {
           "NSwag.AspNetCore": "14.6.1",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.4",
-          "Sieve": "2.5.5",
           "Testcontainers.PostgreSql": "4.8.1"
         },
         "runtime": {
@@ -231,14 +230,6 @@
           }
         }
       },
-      "Sieve/2.5.5": {
-        "runtime": {
-          "lib/netstandard2.1/Sieve.dll": {
-            "assemblyVersion": "2.5.5.0",
-            "fileVersion": "2.5.5.0"
-          }
-        }
-      },
       "SSH.NET/2024.2.0": {
         "dependencies": {
           "BouncyCastle.Cryptography": "2.4.0"
@@ -437,13 +428,6 @@
       "sha512": "sha512-yjj+3zgz8zgXpiiC3ZdF/iyTBbz2fFvMxZFEBPUcwZjIvXOf37Ylm+K58hqMfIBt5JgU/Z2uoUS67JmTLe973A==",
       "path": "sharpziplib/1.4.2",
       "hashPath": "sharpziplib.1.4.2.nupkg.sha512"
-    },
-    "Sieve/2.5.5": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-JNT/m73vu7lzUfi+DNGVRptWYDJTRhS7BgVwqcvlEq5sAhrMmiFZJxM3LPagjsJbcuscMrmMfLgLvhyDNGv/Bg==",
-      "path": "sieve/2.5.5",
-      "hashPath": "sieve.2.5.5.nupkg.sha512"
     },
     "SSH.NET/2024.2.0": {
       "type": "package",
